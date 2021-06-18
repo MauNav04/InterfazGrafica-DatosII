@@ -1,0 +1,4 @@
+/home/mauro/CLionProjects/LittleSocer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mauro/CLionProjects/LittleSocer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mauro/CLionProjects/LittleSocer/cmake-build-debug/CMakeFiles/LittleSocer.dir
+/home/mauro/CLionProjects/LittleSocer/cmake-build-debug/CMakeFiles/LittleSocer_autogen.dir
